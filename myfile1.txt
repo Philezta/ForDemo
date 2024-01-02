@@ -1,2 +1,1 @@
-"Welcome to the world of git and github" 
-"It is simple to to follow" 
+"It is well with our codes and techniques" 
